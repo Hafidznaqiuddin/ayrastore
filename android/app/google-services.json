@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717813736179",
+    "project_id": "ayrastore-d2128",
+    "storage_bucket": "ayrastore-d2128.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717813736179:android:b52757c98b6fe5ae664d86",
+        "android_client_info": {
+          "package_name": "com.example.ayrastore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACIOqZFXKv_5M5HJkhM1t2IMj5LgmKoIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
